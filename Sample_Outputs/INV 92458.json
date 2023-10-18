@@ -1,0 +1,31 @@
+{
+    "Header": {
+        "Doctype": "Invoice",
+        "Customer": "COHERENT MALAYSIA SDN. BHD.",
+        "Number": "92458",
+        "PO": "PO785032",
+        "SalesOrder": "2034055",
+        "Packing": "1221697",
+        "CustomerNumber": "32639"
+    },
+    "Items": {
+        "items": [
+            {
+                "No": 1,
+                "Description": "1218398 ASY,MECH,TOP,SHELL,LASER WELDED,WITH GASKET,NATIONGATE, PO_LINE_NUMBER: , S/N's : , Commercial Invoice :14156931",
+                "Ordered": "1,173",
+                "Shipped": "1,173",
+                "unitPrice": "0.25118",
+                "Tax": "",
+                "Extended_Amount": "294.63"
+            }
+        ]
+    },
+    "Footer": {
+        "Currency": "USD",
+        "SubTotal": "294.63",
+        "Shipping": "0.00",
+        "Tax": "0.00",
+        "Total": "294.63"
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "Header": {
+        "Doctype": "Invoice",
+        "Customer": "COHERENT MALAYSIA SDN. BHD.",
+        "Number": "92455",
+        "PO": "PO789903",
+        "SalesOrder": "2034117",
+        "Packing": "1221938",
+        "CustomerNumber": "32639"
+    },
+    "Items": {
+        "items": [
+            {
+                "No": 1,
+                "Description": "1064372 ENCLOSURE,BOTTOM SHELL,SFP+,CORE2,THIN WALL BASED, PO_LINE_NUMBER: , S/N's : , Sales Order Number : 2034117, Commercial Invoice :14157469",
+                "Ordered": "7,200",
+                "Shipped": "7,200",
+                "unitPrice": 0.31,
+                "Tax": "",
+                "Extended_Amount": "2,232.00"
+            },
+            {
+                "No": 2,
+                "Description": "114-0057-00 GASKET,4PIN LW HDR,5MIL,.185 DIA|KKPT, PO_LLINE NUMBER: , S/N's : , Sales Order Number : 2034117, Commercial Invoice :14157471",
+                "Ordered": "18,358",
+                "Shipped": "18,358",
+                "unitPrice": 0.017,
+                "Tax": "",
+                "Extended_Amount": "312.09"
+            },
+            {
+                "No": 3,
+                "Description": "1218398 ASY,MECH,TOP,SHELL,LASER WELDED,WITH GASKET,NATIONGATE, PO_LINE_NUMBER: , SIN's : , Sales Order Number : 2034118, Commercial Invoice :14157466",
+                "Ordered": "1,402",
+                "Shipped": "1,402",
+                "unitPrice": 0.25118,
+                "Tax": "",
+                "Extended_Amount": "352.15"
+            },
+            {
+                "No": 4,
+                "Description": "1067392 ASY,MECH,TOP SHELL/CONDUCTIVE GASKET,SFP+,NATIONGATE, PO_LINE_NUMBER: , S/N's : , Sales Order Number : 2034117, Commercial Invoice :14157470",
+                "Ordered": "4,845",
+                "Shipped": "4,845",
+                "unitPrice": 0.24662,
+                "Tax": "",
+                "Extended_Amount": "1,194.87"
+            },
+            {
+                "No": 5,
+                "Description": "1207728 ASY,TOSA,6PIN,BALL LENS,10G DFB,INTEGRATED DRIVER,LC RECEPTACLE ISOLATOR,GEN 2,(-5C,RT,75C), PO_LINE_ NUMBER: , S/N's: , Sales Order Number : 2034118, Commercial Invoice :14157452",
+                "Ordered": "388",
+                "Shipped": "388",
+                "unitPrice": 16.27726,
+                "Tax": "",
+                "Extended_Amount": "6,315.58"
+            },
+            {
+                "No": 6,
+                "Description": "1265777 ASY,ROSA,10G LR,LIMITING,LW,FIN 10GTIA 9C,FIN PIN IGP11,LC,NON-PC, PO_LINE_NUMBER: , S/N's :, Sales Order Number : 2034118, Commercial Invoice :14157467",
+                "Ordered": "2,543",
+                "Shipped": "2,543",
+                "unitPrice": 3.39498,
+                "Tax": "",
+                "Extended_Amount": "8,633.43"
+            },
+            {
+                "No": 7,
+                "Description": "1050499 GASKET,6PIN HDR,5MIL,.185DIA,KAPTON, PO_LINE_NUMBER:, S/N's: , Sales Order Number : 2034115, Commercial Invoice :14157479",
+                "Ordered": "7,220",
+                "Shipped": "7,220",
+                "unitPrice": 0.019,
+                "Tax": "",
+                "Extended_Amount": "137.18"
+            },
+            {
+                "No": 8,
+                "Description": "1052323 PAD,THERMAL,4.00MMX4.00MMX1.00MM, PO_LINE_NUMBER:, S/N's: , Sales Order Number : 2034115, Commercial Invoice :14157480",
+                "Ordered": "14,440",
+                "Shipped": "14,440",
+                "unitPrice": 0.019,
+                "Tax": "",
+                "Extended_Amount": "274.36"
+            },
+            {
+                "No": 9,
+                "Description": "1061498 PCB,FLEX,OSA,XFP/SFP+,50 OHM,OSP, PO_LINE_NUMBER: , S/N's: , Sales Order Number : 2034115, Commercial Invoice :14157482",
+                "Ordered": "1,490",
+                "Shipped": "1,490",
+                "unitPrice": 0.09,
+                "Tax": "",
+                "Extended_Amount": "134.10"
+            },
+            {
+                "No": 10,
+                "Description": "1207807 PLATE,EMI FLAT,OSA,SFP+,WELDED COLLAR, PO_LINE_NUMBER:, S/N's:, Sales Order Number : 2034118, Commercial Invoice :14157465",
+                "Ordered": "33,923",
+                "Shipped": "33,923",
+                "unitPrice": 0.03,
+                "Tax": "",
+                "Extended_Amount": "1,017.69"
+            },
+            {
+                "No": 11,
+                "Description": "1032906 GASKET,5PIN HDR,5MIL,.185DIA,KKAPTON,P1&F1, PO_LINE NUMBER:, S/N's: , Sales Order Number : 2034115, Commercial Invoice :14157478",
+                "Ordered": "34,643",
+                "Shipped": "34,643",
+                "unitPrice": 0.0,
+                "Tax": "",
+                "Extended_Amount": "346.43"
+            },
+            {
+                "No": 12,
+                "Description": "1063807 PCB,FLEX,10G/SFP+/LW,6 PIN HEADER ACTIVE TOSA,5MIL VCC TRACE, PO_LINE_NUMBER: , S/N's :, Sales Order Number : 2034115, Commercial Invoice :14157483",
+                "Ordered": "7,200",
+                "Shipped": "7,200",
+                "unitPrice": 0.19,
+                "Tax": "",
+                "Extended_Amount": "1,368.00"
+            }
+        ]
+    },
+    "Footer": {
+        "Currency": "USD",
+        "SubTotal": "22,427.61",
+        "Shipping": "0.00",
+        "Tax": "0.00",
+        "Total": "22,427.61"
+    }
+}

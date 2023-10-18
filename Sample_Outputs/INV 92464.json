@@ -1,0 +1,76 @@
+{
+    "Header": {
+        "Doctype": "Invoice",
+        "Customer": "COHERENT MALAYSIA SDN. BHD.",
+        "Number": "92464",
+        "PO": "PO791468",
+        "SalesOrder": "2034133",
+        "Packing": "1221946",
+        "CustomerNumber": "32639"
+    },
+    "Items": {
+        "items": [
+            {
+                "No": 1,
+                "Description": "1032906 GASKET,5PIN HDR,5MIL,.185DIA,KAPTON,P1&F1, PO_LINE NUMBER:, S/N's:, Sales Order Number : 2034133, Commercial Invoice :14157454",
+                "Ordered": "13,759",
+                "Shipped": "13,759",
+                "unitPrice": "0.01",
+                "Tax": "",
+                "Extended_Amount": "137.59"
+            },
+            {
+                "No": 2,
+                "Description": "114-0057-00 GASKET,4PIN LW HDR,5MIL,.185 DIA,KKPT, PO_LINE_NUMBER:, S/N's: , Sales Order Number : 2034133, Commercial Invoice :14157455",
+                "Ordered": "16,241",
+                "Shipped": "16,241",
+                "unitPrice": "0.017",
+                "Tax": "",
+                "Extended_Amount": "276.10"
+            },
+            {
+                "No": 3,
+                "Description": "1197261 PAD,THERMAL,6W/M.K,5.00MM X 8.00MM X 2.00MM, PO_LINE_NUMBER: , SIN's : , Sales Order Number : 2034133, Commercial Invoice :14157463",
+                "Ordered": "15,940",
+                "Shipped": "15,940",
+                "unitPrice": "0.029",
+                "Tax": "",
+                "Extended_Amount": "462.26"
+            },
+            {
+                "No": 4,
+                "Description": "1022876 SCREW,0-80X3/16\",HEX SKT HD,0.073\" HEAD HGT,SST, PO_LINE_NUMBER: , S/N's : , Sales Order Number : 2034133, Commercial Invoice :14157453",
+                "Ordered": "367",
+                "Shipped": "367",
+                "unitPrice": "0.019",
+                "Tax": "",
+                "Extended_Amount": "6.97"
+            },
+            {
+                "No": 5,
+                "Description": "1153994 PAD,THERMAL,4.00MM X 4.00MM X 1.50MM,6W/M.K, PO_LINE NUMBER: , S/N's : , Sales Order Number : 2034133, Commercial Invoice :14157462",
+                "Ordered": "105,440",
+                "Shipped": "105,440",
+                "unitPrice": "\u2018",
+                "Tax": "",
+                "Extended_Amount": "."
+            },
+            {
+                "No": 6,
+                "Description": "1415975 TOSA,1310 NM,BH3,10G,4 PIN, TFC,BTL, PO_LINE NUMBER: , S/N's: , Sales Order Number : 2034130, Commercial Invoice :14157087",
+                "Ordered": "2,028",
+                "Shipped": "2,028",
+                "unitPrice": "0.012",
+                "Tax": "",
+                "Extended_Amount": "1,265.28"
+            }
+        ]
+    },
+    "Footer": {
+        "Currency": "USD",
+        "SubTotal": "12,835.76",
+        "Shipping": "0.00",
+        "Tax": "0.00",
+        "Total": "12,835.76"
+    }
+}
