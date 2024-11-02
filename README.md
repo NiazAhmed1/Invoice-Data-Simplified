@@ -2,12 +2,9 @@
 
 The project is a powerful tool designed to streamline the processing of scanned invoice PDF images. By harnessing the capabilities of this tool, users can transform complex, paper-based invoices into structured, JSON-formatted data, significantly simplifying the task of understanding and managing invoice information. This solution is ideal for users looking to expedite and optimize their invoice data comprehension, making it an invaluable resource for seamless further processing.
 
+## Key Features
 
-
-
-Key Features:
-
-Scanned Invoice Processing: The project is tailored to work with scanned invoice PDF images. It uses advanced optical character recognition (OCR) technology to extract text and data from these images.
+- **Scanned Invoice Processing**: The project is tailored to work with scanned invoice PDF images. It uses advanced optical character recognition (OCR) technology to extract text and data from these images.
 
 JSON Output: The tool's output is structured in JSON format, which is a universally recognized and easily parsable data format. This structured data simplifies the extraction of specific invoice details and their integration into various systems or applications.
 
