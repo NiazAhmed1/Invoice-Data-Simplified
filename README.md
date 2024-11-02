@@ -20,7 +20,7 @@ The project is a powerful tool designed to streamline the processing of scanned 
 - **Data Analytics**: The structured data can be analyzed for insights and trends, aiding in financial analysis and planning.
 
 ## Running the Code
-1.**Install Required Libraries**: To run th ecode firstly you need to install all libraires mentioned in the file requirements.txt
+1. **Install Required Libraries**: To run th ecode firstly you need to install all libraires mentioned in the file requirements.txt
 2. **Set Poppler Path**: In your code, make sure to set the `poppler_path` variable to specify the path to the Poppler library on your system.
 3. **Run the Script**: Execute the code. It will prompt you to enter the file path of the input PDF file.
 4. **Enter File Path**: Type in the path to your PDF file and press Enter.
