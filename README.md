@@ -19,13 +19,6 @@ The project is a powerful tool designed to streamline the processing of scanned 
 - **Business Automation**: It can be integrated into automated business processes to ensure the efficient handling of invoices and financial transactions.
 - **Data Analytics**: The structured data can be analyzed for insights and trends, aiding in financial analysis and planning.
 
-## Running the Code
-1. **Install Required Libraries**: To run th ecode firstly you need to install all libraires mentioned in the file requirements.txt
-2. **Set Poppler Path**: In your code, make sure to set the `poppler_path` variable to specify the path to the Poppler library on your system.
-3. **Run the Script**: Execute the code. It will prompt you to enter the file path of the input PDF file.
-4. **Enter File Path**: Type in the path to your PDF file and press Enter.
-5. **Output**: The code will process the input and generate a JSON output file. This output file will be saved in the same directory as the input file, with the same name as the input file.
-
 This tool streamlines the processing of scanned invoice data, generating a structured JSON output that is easy to integrate into various workflows. It is particularly useful for accounting, data analysis, and business automation tasks.
 
 
